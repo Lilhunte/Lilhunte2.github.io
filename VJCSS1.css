@@ -1,0 +1,26 @@
+body{text-align: center;
+    background-color: black;}
+
+
+    .psn1 {border: 0px;
+color: rgb(250, 181, 21);
+font-weight: bold;
+display: inline;
+font-family: 'Times New Roman', Times, serif;
+margin-bottom: 0px;
+font-size: 125px;}
+
+
+.psn2{font-size: 16px;
+color: rgb(250, 181, 21);
+margin: 0px;
+}
+
+
+button{color: black;
+background-color:rgb(250, 181, 21);
+margin-top: 70px;
+font-weight: bold;
+border-radius: 50%;
+border-color: black;
+padding: 20px;}
